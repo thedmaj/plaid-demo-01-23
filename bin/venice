@@ -1,0 +1,2 @@
+#!/usr/bin/env tsx
+require('@usevenice/cli/venice-cli').default.help().parse()
